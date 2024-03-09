@@ -8,9 +8,10 @@ public class imad {
         int result = addNumbers(5, 10);
         System.out.println("Result of adding numbers: " + result);
 
+        
         System.out.println("imad akhina");
         
-        System.out.println("hh");
+        System.out.println();
     }
     
     // Example method
