@@ -9,6 +9,8 @@ public class krimou {
         System.out.println("Result of adding numbers: " + result);
 
         System.out.println("kremo khoya");
+
+        System.out.println("rani nkhdem m3a imad");
         
         System.out.println("hh");
     }
